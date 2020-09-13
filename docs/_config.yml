@@ -1,0 +1,22 @@
+
+permalink:           pretty
+# Setup
+title:               'Компьютерные технологии в механике'
+homepage_title:      Home
+url:                 https://iomguy.github.io/PythonIntroCourse2020/
+baseurl:             '/PythonIntroCourse2020'
+
+src:                 "."
+default_theme:       "rust"
+
+# For Maths
+markdown:            kramdown
+ 
+prologues:
+  - path: about.md
+  - path: tools.md
+# chapters:
+#  - path: week01/01.md
+#    sections:
+#      - path: tools.md
+#      - path: week01/01-2.md
