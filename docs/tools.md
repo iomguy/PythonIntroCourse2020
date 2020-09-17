@@ -2,7 +2,6 @@
 title: Инструменты курса
 ---
 
-
 ## Онлайн-сервисы
 
 Браузерный онлайн-интерпретатор Python, на котором можно собрать полноценный проект [Repl.it](https://repl.it/languages/python3)
@@ -12,7 +11,6 @@ title: Инструменты курса
 [http://pythontutor.com](http://pythontutor.com) - ресурс для визуализации исполнения кода, может помочь разобраться с происходящем в интерпретаторе.
 
 [https://github.com/vinta/awesome-python#gui-development](https://github.com/vinta/awesome-python#gui-development) - большой репозиторий с полезными библиотеками, разбитыми по категориям. Прокручивайте страницу и ищите подходящую для вашего проекта библиотеку.
-
 
 ## Python, Jupyter notebook
 
