@@ -44,16 +44,16 @@ author: Калюжнюк Александр
   <tr>
     <td class="tg-0pky">3</td>
     <td class="tg-0pky">18.09.2020</td>
-    <td class="tg-0pky">Типы и структуры данных Python<br>Операторы сравнения, ветвления, цикла</td>
+    <td class="tg-0pky">Типы и структуры данных<br>Операторы сравнения, ветвления, цикла</td>
     <td class="tg-0pky"><a href="http://www.mstu.edu.ru/study/materials/zelenkov/ch_1_1.html" target="_blank" rel="noopener noreferrer">📄Типы и структуры</a><br><a href="https://www.youtube.com/watch?v=VFSnXuUC230" target="_blank" rel="noopener noreferrer">🎥Типы данных Python</a><br><a href="https://www.youtube.com/watch?v=R-HLU9Fl5ug" target="_blank" rel="noopener noreferrer">🎥Структуры Python</a><br><a href="https://www.geeksforgeeks.org/python-operators/" target="_blank" rel="noopener noreferrer">📄Операторы сравнения Python</a><br><a href="https://devpractice.ru/python-lesson-5-if-while-for-operators/" target="_blank" rel="noopener noreferrer">📄Ветвление и циклы</a></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Посмотреть как   минимум 3 ссылки из материалов</td>
+    <td class="tg-0pky">Посмотреть &gt;=3 ссылок из материалов</td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">4</td>
     <td class="tg-0pky">25.09.2020</td>
-    <td class="tg-0pky">Методы, функции, анонимные функции,   исключения</td>
+    <td class="tg-0pky">Методы, функции, <br>анонимные функции, <br>исключения</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -71,7 +71,7 @@ author: Калюжнюк Александр
   <tr>
     <td class="tg-0pky">6</td>
     <td class="tg-0pky">09.10.2020</td>
-    <td class="tg-0pky">Декораторы, генераторы<br>Объектно-ориентированное программирование</td>
+    <td class="tg-0pky">Декораторы, генераторы<br><br>ООП</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -89,7 +89,7 @@ author: Калюжнюк Александр
   <tr>
     <td class="tg-0pky">8</td>
     <td class="tg-0pky">23.10.2020</td>
-    <td class="tg-0pky">Обзор работы с Git</td>
+    <td class="tg-0pky">Обзор работы с <span style="font-weight:bold">Git</span></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -98,7 +98,7 @@ author: Калюжнюк Александр
   <tr>
     <td class="tg-0pky">9</td>
     <td class="tg-0pky">30.10.2020</td>
-    <td class="tg-0pky">Линейная алгебра в numpy<br><br>Таблицы в pandas</td>
+    <td class="tg-0pky">Линейная алгебра в <span style="font-weight:bold">numpy</span><br><br>Таблицы в <span style="font-weight:bold">pandas</span></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -116,7 +116,7 @@ author: Калюжнюк Александр
   <tr>
     <td class="tg-0pky">11</td>
     <td class="tg-0pky">13.11.2020</td>
-    <td class="tg-0pky">Построение графиков в matplotlib, seaborn</td>
+    <td class="tg-0pky">Графики в <span style="font-weight:bold">matplotlib</span>,<span style="font-weight:bold"> seaborn</span></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -134,7 +134,7 @@ author: Калюжнюк Александр
   <tr>
     <td class="tg-0pky">13</td>
     <td class="tg-0pky">27.11.2020</td>
-    <td class="tg-0pky">? Программирование численных схем</td>
+    <td class="tg-0pky">? Численные схемы на Python</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -143,7 +143,7 @@ author: Калюжнюк Александр
   <tr>
     <td class="tg-0pky">14</td>
     <td class="tg-0pky">04.12.2020</td>
-    <td class="tg-0pky">? Статистические модели в sklearn</td>
+    <td class="tg-0pky">? Статистические модели в <span style="font-weight:bold">sklearn</span></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -152,7 +152,7 @@ author: Калюжнюк Александр
   <tr>
     <td class="tg-0pky">15</td>
     <td class="tg-0pky">11.12.2020</td>
-    <td class="tg-0pky">? Графический интерфейс в PyQt</td>
+    <td class="tg-0pky">? Графический интерфейс в <span style="font-weight:bold">PyQt</span></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -173,7 +173,7 @@ author: Калюжнюк Александр
     <td class="tg-0pky">Зачёт</td>
     <td class="tg-c3ow">🧑‍🎓👩‍🎓</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Подготовить презентацию для защиты<br>Загрузить код на Github</td>
+    <td class="tg-0pky">Подготовить презентацию<br>Загрузить код на Github</td>
     <td class="tg-0pky">Защита проекта</td>
   </tr>
 </tbody>
