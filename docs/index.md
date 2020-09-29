@@ -19,7 +19,15 @@ author: Калюжнюк Александр
 
 ## Структура и содержание занятий
 
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 1088px">
+<colgroup>
+<col style="width: 46px">
+<col style="width: 326px">
+<col style="width: 252px">
+<col style="width: 146px">
+<col style="width: 137px">
+<col style="width: 181px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-c3ow">Дата</th>
@@ -43,7 +51,7 @@ author: Калюжнюк Александр
     <td class="tg-0pky">18/09</td>
     <td class="tg-0pky">Типы и структуры данных<br>Операторы сравнения, ветвления, цикла</td>
     <td class="tg-0pky"><a href="http://www.mstu.edu.ru/study/materials/zelenkov/ch_1_1.html" target="_blank" rel="noopener noreferrer">📄Типы и структуры</a><br><a href="https://www.youtube.com/watch?v=VFSnXuUC230" target="_blank" rel="noopener noreferrer">🎥Типы данных Python</a><br><a href="https://www.youtube.com/watch?v=R-HLU9Fl5ug" target="_blank" rel="noopener noreferrer">🎥Структуры Python</a><br><a href="https://www.geeksforgeeks.org/python-operators/" target="_blank" rel="noopener noreferrer">📄Операторы сравнения Python</a><br><a href="https://devpractice.ru/python-lesson-5-if-while-for-operators/" target="_blank" rel="noopener noreferrer">📄Ветвление и циклы</a></td>
-    <td class="tg-c3ow"></td>
+    <td class="tg-0pky"><a href="https://github.com/iomguy/PythonIntroCourse2020/blob/master/notebooks/2_1_data_types.ipynb" target="_blank" rel="noopener noreferrer">💻Типы</a><br><a href="https://github.com/iomguy/PythonIntroCourse2020/blob/master/notebooks/2_2_data_structures.ipynb" target="_blank" rel="noopener noreferrer">💻Структуры</a><br></td>
     <td class="tg-0pky">🛑<a href="https://youtu.be/dbXBN2mzYIE">Rec.1</a><br>🛑<a href="https://youtu.be/tg0ypxiv6Cw">Rec.2</a></td>
     <td class="tg-c3ow">-</td>
   </tr>
