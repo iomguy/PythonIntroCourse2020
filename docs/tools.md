@@ -41,6 +41,6 @@ Jupyter notebook устанавливается чрез pip в командно
 * [и видео к ней](https://youtu.be/EPVwnG-n4B0)
 
 ## StackEdit
-Онлайн markdown редактор с поддержкой формул.
+Онлайн markdown редактор с поддержкой формул, с помощью которого тут всё и сделано: [StackEdit](https://stackedit.io/).
 
-> с помощью которого тут всё и сделано: [StackEdit](https://stackedit.io/).
+Удобно быстро проверять в нём, как будут выглядеть Markdown-файлы
