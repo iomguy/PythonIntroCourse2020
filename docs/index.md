@@ -60,7 +60,7 @@ author: Калюжнюк Александр
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
-    <td class="tg-0pky">09/10<br><br>Декораторы,<br>генераторы</td>
+    <td class="tg-0pky">09/10<br><br>ООП</td>
     <td class="tg-0pky">📄<a href="https://docviewer.yandex.ru/view/0/?page=8&*=HxmeQ7atc%2BPa24qQFawvYYy%2FTSx7InVybCI6InlhLWRpc2stcHVibGljOi8veVNHbHNoTlVycWxIV0VGWjFaQ3FwNTFVNzRNTjdNMUM5L1NPMXdmZEF6RWRPeXdzTmFTVUtLQlBoOEMvcncrOXEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoi0JHQuNC70Lsg0JvRjtCx0LDQvdC%2B0LLQuNGHIC0g0J%2FRgNC%2B0YHRgtC%2B0LkgUHl0aG9uLiDQodC%2B0LLRgNC10LzQtdC90L3Ri9C5INGB0YLQuNC70Ywg0L%2FRgNC%2B0LPRgNCw0LzQvNC40YDQvtCy0LDQvdC40Y8t0J%2FQuNGC0LXRgCAoMjAxNikucGRmIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIwIiwidHMiOjE2MDIxMDUzMTY0NDYsInl1IjoiNjg5ODIzNTQ3MTYwMDY5MjIzOCJ9" target="_blank" rel="noopener noreferrer">ООП Python</a><br><a href="https://docviewer.yandex.ru/view/0/?page=8&*=HxmeQ7atc%2BPa24qQFawvYYy%2FTSx7InVybCI6InlhLWRpc2stcHVibGljOi8veVNHbHNoTlVycWxIV0VGWjFaQ3FwNTFVNzRNTjdNMUM5L1NPMXdmZEF6RWRPeXdzTmFTVUtLQlBoOEMvcncrOXEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoi0JHQuNC70Lsg0JvRjtCx0LDQvdC%2B0LLQuNGHIC0g0J%2FRgNC%2B0YHRgtC%2B0LkgUHl0aG9uLiDQodC%2B0LLRgNC10LzQtdC90L3Ri9C5INGB0YLQuNC70Ywg0L%2FRgNC%2B0LPRgNCw0LzQvNC40YDQvtCy0LDQvdC40Y8t0J%2FQuNGC0LXRgCAoMjAxNikucGRmIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIwIiwidHMiOjE2MDIxMDUzMTY0NDYsInl1IjoiNjg5ODIzNTQ3MTYwMDY5MjIzOCJ9" target="_blank" rel="noopener noreferrer">(стр. 157-162)</a><br><br>📄<a href="https://metanit.com/python/tutorial/7.1.php#:~:text=Python%20%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8%D0%B2%D0%B0%D0%B5%D1%82%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%2D%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%83%D1%8E%20%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%D0%B8%D0%B3%D0%BC%D1%83,%D1%8D%D1%82%D0%BE%D0%B3%D0%BE%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B0%2C%20%D0%B5%D0%B3%D0%BE%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%B2%D0%BE%D0%BF%D0%BB%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D0%B5." target="_blank" rel="noopener noreferrer">ООП Python</a><br><br>Bonus:<br><br>📄 <a href="https://habr.com/ru/post/87119/" target="_blank" rel="noopener noreferrer">ООП что такое?</a><br>📄 <a href="https://habr.com/ru/post/446816/" target="_blank" rel="noopener noreferrer">SOLID</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
@@ -78,7 +78,7 @@ author: Калюжнюк Александр
     <td class="tg-0pky">Выбрать тему проекта<br>добавить её по <a href="https://docs.google.com/spreadsheets/d/1cxPNJRYRQ3nToLxLb6YIYjBUK9EXYxXXsUj6xPqc5_E/edit?usp=sharing">ссылке</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">30/10<br><br>? ООП / Regex<br><br>Линейная алгебра <br>в <span style="font-weight:bold">numpy</span></td>
+    <td class="tg-0pky">30/10<br><br>? Regex/<br>Декораторы/<br>генераторы<br><br><br><br>Линейная алгебра <br>в <span style="font-weight:bold">numpy</span></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
@@ -133,5 +133,4 @@ author: Калюжнюк Александр
   </tr>
 </tbody>
 </table>
-
 Table is generated with [TablesGenerator](https://www.tablesgenerator.com/html_tables)
