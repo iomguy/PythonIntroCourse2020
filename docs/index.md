@@ -8,8 +8,8 @@ author: Калюжнюк Александр
 **Высшая школа Теоретическая Механика · Осень 2020**
 
 | Преподаватель | [Калюжнюк Александр](https://vk.com/alex_iomguy)|
-| Занятия   | Пятница 18:00 (обсуждается),  Zoom  / НИК (А2.12) |
-| Материалы   | [Notebooks](https://iomguy.github.io/Python2020/tree/master/assignments) |
+| Занятия   | Пн 14-16,  НИК (B2.03) |
+| Материалы   | [Notebooks](https://github.com/iomguy/PythonIntroCourse2020/tree/master/notebooks) |
 
 
 ## Описание
