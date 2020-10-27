@@ -19,12 +19,12 @@ author: Калюжнюк Александр
 
 ## Структура и содержание занятий
 
-<table class="tg" style="undefined;table-layout: fixed; width: 737px">
+<table class="tg" style="undefined;table-layout: fixed; width: 753px">
 <colgroup>
-<col style="width: 226px">
-<col style="width: 225px">
-<col style="width: 105px">
-<col style="width: 181px">
+<col style="width: 232px">
+<col style="width: 230px">
+<col style="width: 106px">
+<col style="width: 185px">
 </colgroup>
 <thead>
   <tr>
@@ -72,14 +72,14 @@ author: Калюжнюк Александр
     <td class="tg-0pky">Тест/задания в ауд. А2.02</td>
   </tr>
   <tr>
-    <td class="tg-0pky">? 26/10<br><br><br>Обзор работы с <span style="font-weight:bold">Git</span></td>
-    <td class="tg-0pky">🎥<a href="https://www.youtube.com/watch?v=EPVwnG-n4B0&feature=youtu.be" target="_blank" rel="noopener noreferrer">Что такое Git</a><br>📖 <a href="https://amueller.github.io/COMS4995-s19/slides/aml-02-python-git-testing/#1" target="_blank" rel="noopener noreferrer">Что такое Git</a><br><br><a href="https://learngitbranching.js.org/?locale=ru_RU" target="_blank" rel="noopener noreferrer">📄Игровой мануал Git</a><br><a href="https://help.github.jp/enterprise/2.11/user/articles/associating-text-editors-with-git/" target="_blank" rel="noopener noreferrer">📄Text Editor for Git</a><br><a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank" rel="noopener noreferrer">📄 Gitflow</a><br><br>Bonus:<br><br><a href="https://dangitgit.com/ru" target="_blank" rel="noopener noreferrer"><span style="color:#333">📄</span></a><a href="https://dangitgit.com/ru" target="_blank" rel="noopener noreferrer">OhShitGit - боль и ошибки</a><br><br>📄<a href="https://qz.com/990214/a-million-people-have-visited-this-web-page-explaining-how-to-close-vim-a-notoriously-difficult-text-editing-program/#:~:text=%E2%80%9CHit%20the%20Esc%20key%2C%E2%80%9D,saving%20(short%20for%20%3Aquit!)" target="_blank" rel="noopener noreferrer">How to close vim?</a><br></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">26/10<br><br>Обзор работы с <span style="font-weight:bold">Git</span></td>
+    <td class="tg-0pky">🎥<a href="https://www.youtube.com/watch?v=EPVwnG-n4B0&feature=youtu.be" target="_blank" rel="noopener noreferrer">Что такое Git</a><br>📖 <a href="https://amueller.github.io/COMS4995-s19/slides/aml-02-python-git-testing/#1" target="_blank" rel="noopener noreferrer">Что такое Git</a><br><br><a href="https://help.github.jp/enterprise/2.11/user/articles/associating-text-editors-with-git/" target="_blank" rel="noopener noreferrer">📄Редакторы вместо Vim</a><br><br>🛑<a href="https://youtu.be/KCcSkMY90lU" target="_blank" rel="noopener noreferrer">Rec</a><br><br><br>Bonus:<br><br><a href="https://dangitgit.com/ru" target="_blank" rel="noopener noreferrer"><span style="color:#333">📄</span></a><a href="https://dangitgit.com/ru" target="_blank" rel="noopener noreferrer">OhShitGit - боль и ошибки</a><br><br>📄<a href="https://qz.com/990214/a-million-people-have-visited-this-web-page-explaining-how-to-close-vim-a-notoriously-difficult-text-editing-program/#:~:text=%E2%80%9CHit%20the%20Esc%20key%2C%E2%80%9D,saving%20(short%20for%20%3Aquit!)" target="_blank" rel="noopener noreferrer">How to close vim?</a><br></td>
+    <td class="tg-0pky">🎮<a href="https://learngitbranching.js.org/?locale=ru_RU" target="_blank" rel="noopener noreferrer">Git game</a></td>
     <td class="tg-0pky">Выбрать тему проекта<br>добавить её по <a href="https://docs.google.com/spreadsheets/d/1cxPNJRYRQ3nToLxLb6YIYjBUK9EXYxXXsUj6xPqc5_E/edit?usp=sharing">ссылке</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">02/11<br><br>? Regex/<br>Декораторы/<br>генераторы<br><br><br><br>Линейная алгебра <br>в <span style="font-weight:bold">numpy</span></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">02/11<br><br>Ветви и репозитории <span style="font-weight:bold">Git</span></td>
+    <td class="tg-0pky">📄<a href="https://www.atlassian.com/git/tutorials/syncing" target="_blank" rel="noopener noreferrer">Удалённые репозитории</a><br><br>📄<a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank" rel="noopener noreferrer">Gitflow. Мастер, релиз</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
   </tr>
@@ -90,7 +90,7 @@ author: Калюжнюк Александр
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
-    <td class="tg-0pky">16/11<br><br>Таблицы <br>в pandas<br><br>Графики <br>в <span style="font-weight:bold">matplotlib</span>,<span style="font-weight:bold"> seaborn</span></td>
+    <td class="tg-0pky">16/11<br><br>Regex<br>Декораторы<br>Генераторы<br><br></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
@@ -102,19 +102,19 @@ author: Калюжнюк Александр
     <td class="tg-0pky">Тест/задания в ауд. А2.02</td>
   </tr>
   <tr>
-    <td class="tg-0pky">30/11<br><br>? Численные схемы <br>на Python</td>
+    <td class="tg-0pky">30/11<br><br>? <br></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
-    <td class="tg-0pky">7/12<br><br>? Статистические модели <br>в <span style="font-weight:bold">sklearn</span></td>
+    <td class="tg-0pky">7/12<br><br>? <br></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
-    <td class="tg-0pky">14/12<br><br>? Графический интерфейс<br>в <span style="font-weight:bold">PyQt</span></td>
+    <td class="tg-0pky">14/12<br><br>? <br></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
@@ -130,6 +130,12 @@ author: Калюжнюк Александр
     <td class="tg-c3ow">🧑‍🎓👩‍🎓</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Подготовить презентацию<br>Загрузить код на Github<br>Защитить проект</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">След. семестр<br><br>Линейная алгебра<br>в <span style="font-weight:bold">numpy</span><br><br>Таблицы <br>в <span style="font-weight:bold">pandas</span><br><br>Графики<br>в <span style="font-weight:bold">matplotlib, seaborn</span><br><br>Статистические модели<br>в <span style="font-weight:bold">sklearn</span><br><br>Графический интерфейс<br>в <span style="font-weight:bold">PyQt</span><br><br>Численные схемы<br><br>на Python</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
 </tbody>
 </table>
