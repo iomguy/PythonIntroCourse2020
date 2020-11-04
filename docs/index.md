@@ -79,15 +79,15 @@ author: Калюжнюк Александр
   </tr>
   <tr>
     <td class="tg-0pky">02/11<br><br>Ветви и репозитории <span style="font-weight:bold">Git</span></td>
-    <td class="tg-0pky">📄<a href="https://www.atlassian.com/git/tutorials/syncing" target="_blank" rel="noopener noreferrer">Удалённые репозитории</a><br><br>📄<a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank" rel="noopener noreferrer">Gitflow. Мастер, релиз</a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">📄<a href="https://www.atlassian.com/git/tutorials/syncing" target="_blank" rel="noopener noreferrer">Удалённые репозитории</a><br><br>📄<a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank" rel="noopener noreferrer">Gitflow. Мастер, релиз</a><br><br><span style="font-weight:400;font-style:normal">🛑</span><a href="https://www.youtube.com/watch?v=gJYMw_220eE" target="_blank" rel="noopener noreferrer">Rec</a><br><br></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">💻</span><a href="https://github.com/iomguy/test_repo" target="_blank" rel="noopener noreferrer">merge conflict</a></td>
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
     <td class="tg-0pky">9/11<br><br>Практика</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-c3ow">-</td>
+    <td class="tg-c3ow">Создать на github репозиторий с <br>README-файлом<br>по курсовой</td>
   </tr>
   <tr>
     <td class="tg-0pky">16/11<br><br>Regex<br>Декораторы<br>Генераторы<br><br></td>
