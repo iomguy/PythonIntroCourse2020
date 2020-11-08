@@ -84,46 +84,46 @@ author: Калюжнюк Александр
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
-    <td class="tg-0pky">9/11<br><br>Практика</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">9/11<br><br>Регулярные выражения<br>Практика</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">🎥</span><a href="https://www.youtube.com/watch?v=ykSuHWhh5hc" target="_blank" rel="noopener noreferrer">Что такое regex</a><br><br><a href="https://docviewer.yandex.ru/view/163355647/?page=192&*=Db3ngiR44Til5qNVJsc7OKqBpEt7InVybCI6InlhLWRpc2stcHVibGljOi8veVNHbHNoTlVycWxIV0VGWjFaQ3FwNTFVNzRNTjdNMUM5L1NPMXdmZEF6RWRPeXdzTmFTVUtLQlBoOEMvcncrOXEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoi0JHQuNC70Lsg0JvRjtCx0LDQvdC%2B0LLQuNGHIC0g0J%2FRgNC%2B0YHRgtC%2B0LkgUHl0aG9uLiDQodC%2B0LLRgNC10LzQtdC90L3Ri9C5INGB0YLQuNC70Ywg0L%2FRgNC%2B0LPRgNCw0LzQvNC40YDQvtCy0LDQvdC40Y8t0J%2FQuNGC0LXRgCAoMjAxNikucGRmIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxNjMzNTU2NDciLCJ0cyI6MTYwMTAyODIyNjc3NSwieXUiOiI3OTE5MjAxNDYxNTYzNjI4NjM4In0%3D" target="_blank" rel="noopener noreferrer">📄Regex в Python(стр. 192-200)</a><br></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">Создать на github репозиторий с <br>README-файлом<br>по курсовой</td>
   </tr>
   <tr>
-    <td class="tg-0pky">16/11<br><br>Regex<br>Декораторы<br>Генераторы<br><br></td>
+    <td class="tg-0pky">16/11<br><br></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">Тест/задания в ауд. А2.02</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">23/11<br><br>Итераторы<br>Генераторы<br>List Comprehension</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
-    <td class="tg-0pky">23/11<br><br>Практика</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Тест/задания в ауд. А2.02</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">30/11<br><br>? <br></td>
+    <td class="tg-0pky">30/11<br><br>Исключения<br>Менеджеры контекста<br></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
-    <td class="tg-0pky">7/12<br><br>? <br></td>
+    <td class="tg-0pky">7/12<br><br>File I/O<br>Работа с файлами<br>Работа с OS</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
-    <td class="tg-0pky">14/12<br><br>? <br></td>
+    <td class="tg-0pky">14/12<br><br>Разбор проектов</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">Тест/задания в ауд. А2.02</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">21/12<br><br>Создание venv<br>Разбор проектов</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">21/12<br><br>Практика</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Тест/задания в ауд. А2.02</td>
   </tr>
   <tr>
     <td class="tg-0pky">28/12<br><br>Зачёт</td>
