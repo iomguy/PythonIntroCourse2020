@@ -15,6 +15,8 @@ markdown:            kramdown
 prologues:
   - path: about.md
   - path: tools.md
+  - path: 7_git_branches_and_remote.pdf
+  - path: 8_regex.pdf
 # chapters:
 #  - path: week01/01.md
 #    sections:
