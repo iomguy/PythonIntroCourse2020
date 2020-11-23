@@ -17,6 +17,7 @@ prologues:
   - path: tools.md
   - path: 7_git_branches_and_remote.pdf
   - path: 8_regex.pdf
+  - path: 10_iterators_generators_list_comprehension.pdf
 # chapters:
 #  - path: week01/01.md
 #    sections:
