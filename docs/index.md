@@ -97,7 +97,7 @@ author: Калюжнюк Александр
   </tr>
   <tr>
     <td class="tg-0pky">23/11<br><br>Итераторы<br>Генераторы<br>List Comprehension</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">📖<a href="https://iomguy.github.io/PythonIntroCourse2020/10_iterators_generators_list_comprehension.pdf" target="_blank" rel="noopener noreferrer">Итер-ры, генер-ры, ListComp</a><br><br>📄<a href="https://jakevdp.github.io/WhirlwindTourOfPython/10-iterators.html" target="_blank" rel="noopener noreferrer">Итераторы</a><br>📄<a href="https://jakevdp.github.io/WhirlwindTourOfPython/11-list-comprehensions.html" target="_blank" rel="noopener noreferrer">List Comprehensions</a><br>📄<a href="https://jakevdp.github.io/WhirlwindTourOfPython/12-generators.html" target="_blank" rel="noopener noreferrer">Генераторы</a><br></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
   </tr>
