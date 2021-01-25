@@ -13,6 +13,7 @@ default_theme:       "rust"
 markdown:            kramdown
  
 prologues:
+  - path: 1_semester.md
   - path: about.md
   - path: tools.md
   - path: 7_git_branches_and_remote.pdf
