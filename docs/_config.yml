@@ -19,6 +19,7 @@ prologues:
   - path: data_pages/7_git_branches_and_remote.pdf
   - path: data_pages/8_regex.pdf
   - path: data_pages/10_iterators_generators_list_comprehension.pdf
+  - path: data_pages/14_practice_parser.pdf
 # chapters:
 #  - path: week01/01.md
 #    sections:
