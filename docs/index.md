@@ -43,7 +43,7 @@ author: Калюжнюк Александр
   </tr>
   <tr>
     <td class="tg-0pky">02/02<br><br>Разработка парсера.</td>
-    <td class="tg-0pky"><a href="https://youtu.be/uS2hyussGdQ" target="_blank" rel="noopener noreferrer">🛑Rec</a></td>
+    <td class="tg-0pky"><a href="https://iomguy.github.io/PythonIntroCourse2020/data_pages/14_practice_parser.pdf" target="_blank" rel="noopener noreferrer">📖Архитектура парсера</a><br><br><a href="https://youtu.be/uS2hyussGdQ" target="_blank" rel="noopener noreferrer">🛑Rec</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
