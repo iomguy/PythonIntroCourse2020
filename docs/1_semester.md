@@ -64,13 +64,13 @@ title: 1 семестр
   </tr>
   <tr>
     <td class="tg-0pky">02/11<br><br>Ветви и репозитории <span style="font-weight:bold">Git</span></td>
-    <td class="tg-0pky">📖<a href="https://iomguy.github.io/PythonIntroCourse2020/7_git_branches_and_remote.pdf" target="_blank" rel="noopener noreferrer">Ветви и репозитории Git</a><br><br>📄<a href="https://www.atlassian.com/git/tutorials/syncing" target="_blank" rel="noopener noreferrer">Удалённые репозитории</a><br><br>📄<a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank" rel="noopener noreferrer">Gitflow. Мастер, релиз</a><br><br><span style="font-weight:400;font-style:normal">🛑</span><a href="https://www.youtube.com/watch?v=gJYMw_220eE" target="_blank" rel="noopener noreferrer">Rec</a><br><br></td>
+    <td class="tg-0pky"><a href="https://iomguy.github.io/PythonIntroCourse2020/data_pages/7_git_branches_and_remote.pdf" target="_blank" rel="noopener noreferrer">📖Ветви и репозитории Git</a><br><br>📄<a href="https://www.atlassian.com/git/tutorials/syncing" target="_blank" rel="noopener noreferrer">Удалённые репозитории</a><br><br>📄<a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank" rel="noopener noreferrer">Gitflow. Мастер, релиз</a><br><br><span style="font-weight:400;font-style:normal">🛑</span><a href="https://www.youtube.com/watch?v=gJYMw_220eE" target="_blank" rel="noopener noreferrer">Rec</a></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">💻</span><a href="https://github.com/iomguy/test_repo" target="_blank" rel="noopener noreferrer">merge conflict</a></td>
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
     <td class="tg-0pky">9/11<br><br>Регулярные выражения<br>Практика</td>
-    <td class="tg-0pky">📖<a href="https://iomguy.github.io/PythonIntroCourse2020/8_regex.pdf" target="_blank" rel="noopener noreferrer">Регулярные выражения</a><br><br><span style="font-weight:400;font-style:normal">🎥</span><a href="https://www.youtube.com/watch?v=ykSuHWhh5hc" target="_blank" rel="noopener noreferrer">Что такое regex</a><br><br><a href="https://docviewer.yandex.ru/view/163355647/?page=192&*=Db3ngiR44Til5qNVJsc7OKqBpEt7InVybCI6InlhLWRpc2stcHVibGljOi8veVNHbHNoTlVycWxIV0VGWjFaQ3FwNTFVNzRNTjdNMUM5L1NPMXdmZEF6RWRPeXdzTmFTVUtLQlBoOEMvcncrOXEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoi0JHQuNC70Lsg0JvRjtCx0LDQvdC%2B0LLQuNGHIC0g0J%2FRgNC%2B0YHRgtC%2B0LkgUHl0aG9uLiDQodC%2B0LLRgNC10LzQtdC90L3Ri9C5INGB0YLQuNC70Ywg0L%2FRgNC%2B0LPRgNCw0LzQvNC40YDQvtCy0LDQvdC40Y8t0J%2FQuNGC0LXRgCAoMjAxNikucGRmIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxNjMzNTU2NDciLCJ0cyI6MTYwMTAyODIyNjc3NSwieXUiOiI3OTE5MjAxNDYxNTYzNjI4NjM4In0%3D" target="_blank" rel="noopener noreferrer">📄Regex в Python</a><br><a href="https://docviewer.yandex.ru/view/163355647/?page=192&*=Db3ngiR44Til5qNVJsc7OKqBpEt7InVybCI6InlhLWRpc2stcHVibGljOi8veVNHbHNoTlVycWxIV0VGWjFaQ3FwNTFVNzRNTjdNMUM5L1NPMXdmZEF6RWRPeXdzTmFTVUtLQlBoOEMvcncrOXEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoi0JHQuNC70Lsg0JvRjtCx0LDQvdC%2B0LLQuNGHIC0g0J%2FRgNC%2B0YHRgtC%2B0LkgUHl0aG9uLiDQodC%2B0LLRgNC10LzQtdC90L3Ri9C5INGB0YLQuNC70Ywg0L%2FRgNC%2B0LPRgNCw0LzQvNC40YDQvtCy0LDQvdC40Y8t0J%2FQuNGC0LXRgCAoMjAxNikucGRmIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxNjMzNTU2NDciLCJ0cyI6MTYwMTAyODIyNjc3NSwieXUiOiI3OTE5MjAxNDYxNTYzNjI4NjM4In0%3D" target="_blank" rel="noopener noreferrer">(стр. 192-200)</a><br></td>
+    <td class="tg-0pky"><a href="https://iomguy.github.io/PythonIntroCourse2020/data_pages/8_regex.pdf" target="_blank" rel="noopener noreferrer">📖Регулярные выражения</a><br><br><span style="font-weight:400;font-style:normal">🎥</span><a href="https://www.youtube.com/watch?v=ykSuHWhh5hc" target="_blank" rel="noopener noreferrer">Что такое regex</a><br><br><a href="https://docviewer.yandex.ru/view/163355647/?page=192&*=Db3ngiR44Til5qNVJsc7OKqBpEt7InVybCI6InlhLWRpc2stcHVibGljOi8veVNHbHNoTlVycWxIV0VGWjFaQ3FwNTFVNzRNTjdNMUM5L1NPMXdmZEF6RWRPeXdzTmFTVUtLQlBoOEMvcncrOXEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoi0JHQuNC70Lsg0JvRjtCx0LDQvdC%2B0LLQuNGHIC0g0J%2FRgNC%2B0YHRgtC%2B0LkgUHl0aG9uLiDQodC%2B0LLRgNC10LzQtdC90L3Ri9C5INGB0YLQuNC70Ywg0L%2FRgNC%2B0LPRgNCw0LzQvNC40YDQvtCy0LDQvdC40Y8t0J%2FQuNGC0LXRgCAoMjAxNikucGRmIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxNjMzNTU2NDciLCJ0cyI6MTYwMTAyODIyNjc3NSwieXUiOiI3OTE5MjAxNDYxNTYzNjI4NjM4In0%3D" target="_blank" rel="noopener noreferrer">📄Regex в Python</a><br><a href="https://docviewer.yandex.ru/view/163355647/?page=192&*=Db3ngiR44Til5qNVJsc7OKqBpEt7InVybCI6InlhLWRpc2stcHVibGljOi8veVNHbHNoTlVycWxIV0VGWjFaQ3FwNTFVNzRNTjdNMUM5L1NPMXdmZEF6RWRPeXdzTmFTVUtLQlBoOEMvcncrOXEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoi0JHQuNC70Lsg0JvRjtCx0LDQvdC%2B0LLQuNGHIC0g0J%2FRgNC%2B0YHRgtC%2B0LkgUHl0aG9uLiDQodC%2B0LLRgNC10LzQtdC90L3Ri9C5INGB0YLQuNC70Ywg0L%2FRgNC%2B0LPRgNCw0LzQvNC40YDQvtCy0LDQvdC40Y8t0J%2FQuNGC0LXRgCAoMjAxNikucGRmIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxNjMzNTU2NDciLCJ0cyI6MTYwMTAyODIyNjc3NSwieXUiOiI3OTE5MjAxNDYxNTYzNjI4NjM4In0%3D" target="_blank" rel="noopener noreferrer">(стр. 192-200)</a><br><br><a href="https://youtu.be/OsGplNAdEFM" target="_blank" rel="noopener noreferrer">🛑Rec</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">Создать на github репозиторий с <br>README-файлом<br>по курсовой</td>
   </tr>
@@ -82,45 +82,27 @@ title: 1 семестр
   </tr>
   <tr>
     <td class="tg-0pky">23/11<br><br>Итераторы<br>Генераторы<br>List Comprehension</td>
-    <td class="tg-0pky">📖<a href="https://iomguy.github.io/PythonIntroCourse2020/10_iterators_generators_list_comprehension.pdf" target="_blank" rel="noopener noreferrer">Итер-ры, генер-ры, ListComp</a><br><br>📄<a href="https://jakevdp.github.io/WhirlwindTourOfPython/10-iterators.html" target="_blank" rel="noopener noreferrer">Итераторы</a><br>📄<a href="https://jakevdp.github.io/WhirlwindTourOfPython/11-list-comprehensions.html" target="_blank" rel="noopener noreferrer">List Comprehensions</a><br>📄<a href="https://jakevdp.github.io/WhirlwindTourOfPython/12-generators.html" target="_blank" rel="noopener noreferrer">Генераторы</a><br><br>Bonus:<br>📄<a href="https://habr.com/ru/post/488112/" target="_blank" rel="noopener noreferrer">Особенности итераторов</a><br><a href="https://habr.com/ru/post/488112/" target="_blank" rel="noopener noreferrer">в Python</a></td>
+    <td class="tg-0pky"><a href="https://iomguy.github.io/PythonIntroCourse2020/data_pages/10_iterators_generators_list_comprehension.pdf" target="_blank" rel="noopener noreferrer">📖Итер-ры, генер-ры, ListComp</a><br><br>📄<a href="https://jakevdp.github.io/WhirlwindTourOfPython/10-iterators.html" target="_blank" rel="noopener noreferrer">Итераторы</a><br>📄<a href="https://jakevdp.github.io/WhirlwindTourOfPython/11-list-comprehensions.html" target="_blank" rel="noopener noreferrer">List Comprehensions</a><br>📄<a href="https://jakevdp.github.io/WhirlwindTourOfPython/12-generators.html" target="_blank" rel="noopener noreferrer">Генераторы</a><br><br>Bonus:<br>📄<a href="https://habr.com/ru/post/488112/" target="_blank" rel="noopener noreferrer">Особенности итераторов</a><br><a href="https://habr.com/ru/post/488112/" target="_blank" rel="noopener noreferrer">в Python</a><br><br><a href="https://youtu.be/fQ9YDp49SEw" target="_blank" rel="noopener noreferrer">🛑Rec</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
     <td class="tg-0pky">30/11<br><br>Исключения</td>
-    <td class="tg-0pky">🎥 <a href="https://www.youtube.com/watch?v=O2Nk3JFZE58" target="_blank" rel="noopener noreferrer">Исключения в Python</a><br><br>📄 <a href="https://yadi.sk/i/ei6gYf98lorTrA" target="_blank" rel="noopener noreferrer">Исключения Python</a><br><a href="https://yadi.sk/i/ei6gYf98lorTrA" target="_blank" rel="noopener noreferrer">(стр. 137-139)</a><br><br>Bonus:<br>📄 <a href="https://www.geeksforgeeks.org/python-exception-handling/" target="_blank" rel="noopener noreferrer">Ошибка в синтаксисе</a><br><a href="https://www.geeksforgeeks.org/python-exception-handling/" target="_blank" rel="noopener noreferrer">vs Исключение</a><br><br>📄<a href="https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html" target="_blank" rel="noopener noreferrer">Описание всех исключений</a><br><a href="https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html" target="_blank" rel="noopener noreferrer">в Python на русском яз.</a></td>
+    <td class="tg-0pky">🎥 <a href="https://www.youtube.com/watch?v=O2Nk3JFZE58" target="_blank" rel="noopener noreferrer">Исключения в Python</a><br><br>📄 <a href="https://yadi.sk/i/ei6gYf98lorTrA" target="_blank" rel="noopener noreferrer">Исключения Python</a><br><a href="https://yadi.sk/i/ei6gYf98lorTrA" target="_blank" rel="noopener noreferrer">(стр. 137-139)</a><br><br>Bonus:<br>📄 <a href="https://www.geeksforgeeks.org/python-exception-handling/" target="_blank" rel="noopener noreferrer">Ошибка в синтаксисе</a><br><a href="https://www.geeksforgeeks.org/python-exception-handling/" target="_blank" rel="noopener noreferrer">vs Исключение</a><br><br>📄<a href="https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html" target="_blank" rel="noopener noreferrer">Описание всех исключений</a><br><a href="https://pythonworld.ru/tipy-dannyx-v-python/isklyucheniya-v-python-konstrukciya-try-except-dlya-obrabotki-isklyuchenij.html" target="_blank" rel="noopener noreferrer">в Python на русском яз.</a><br><br><a href="https://youtu.be/MK2W5sx-KxY" target="_blank" rel="noopener noreferrer">🛑Rec</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
     <td class="tg-0pky">7/12<br><br>File I/O<br><br>Менеджеры контекста<br><br>Работа с файлами<br>Работа с OS</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-c3ow">-</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">14/12<br><br>Разбор проектов</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal">Тест/задания в ауд. А2.02</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">21/12<br><br>Создание venv<br>Разбор проектов</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://yadi.sk/i/ei6gYf98lorTrA" target="_blank" rel="noopener noreferrer">📄 Исключения Python </a><br><a href="https://yadi.sk/i/ei6gYf98lorTrA" target="_blank" rel="noopener noreferrer">(стр. 210-216)</a><br><br><br><a href="https://youtu.be/klNCa8XPm8c" target="_blank" rel="noopener noreferrer">🛑Rec</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-c3ow">-</td>
   </tr>
   <tr>
-    <td class="tg-0pky">28/12<br><br>Зачёт</td>
+    <td class="tg-0pky">18/12<br><br>Зачёт</td>
     <td class="tg-c3ow">🧑‍🎓👩‍🎓</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky">Подготовить презентацию<br>Загрузить код на Github<br>Защитить проект</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">След. семестр<br><br>Линейная алгебра<br>в <span style="font-weight:bold">numpy</span><br><br>Таблицы <br>в <span style="font-weight:bold">pandas</span><br><br>Графики<br>в <span style="font-weight:bold">matplotlib, seaborn</span><br><br>Статистические модели<br>в <span style="font-weight:bold">sklearn</span><br><br>Сериализация в <span style="font-weight:bold">Pickle</span><br>работа с <span style="font-weight:bold">БД</span><br><br>Графический интерфейс<br>в <span style="font-weight:bold">PyQt</span><br><br>Численные схемы<br><br>на Python</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-c3ow">Подготовить презентацию<br><br>Загрузить код на Github<br><br>Защитить проект</td>
   </tr>
 </tbody>
 </table>
