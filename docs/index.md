@@ -19,12 +19,12 @@ author: Калюжнюк Александр
 
 ## Структура и содержание занятий
 
-<table class="tg" style="undefined;table-layout: fixed; width: 808px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1077px">
 <colgroup>
-<col style="width: 250px">
-<col style="width: 246px">
-<col style="width: 114px">
-<col style="width: 198px">
+<col style="width: 334px">
+<col style="width: 328px">
+<col style="width: 151px">
+<col style="width: 264px">
 </colgroup>
 <thead>
   <tr>
@@ -48,13 +48,97 @@ author: Калюжнюк Александр
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">08/02<br><br></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">08/02<br><br>Написание парсера<br>структура сборки<br><br>практика<br><br></td>
+    <td class="tg-0pky"><br><br><br></td>
+    <td class="tg-0pky"><a href="https://github.com/iomguy/eclipse_schedule_parser_stud" target="_blank" rel="noopener noreferrer">💻Репозиторий</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Создание venv<br><br><br>PEP-8, аннотирование типов<br><br>Unit-тестирование<br><br>Линейная алгебра<br>в numpy<br><br>Таблицы <br>в pandas<br><br>Графики<br>в matplotlib, seaborn<br><br>Статистические модели<br>в sklearn<br><br>Сериализация в Pickle<br>работа с БД<br><br>Графический интерфейс<br>в PyQt<br><br>Численные схемы<br>на Python<br><br><br>multiprocessing</td>
+    <td class="tg-7zrl">16/02<br><br>Unit-тестирование</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">23/02</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">02/02</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">09/03</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">16/03</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">30/03</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">06/04</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">13/04</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">20/04</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">27/04</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">04/05</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">11/05</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">18/05</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">25/05</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Создание venv<br><br><br>PEP-8, аннотирование типов<br><br>Линейная алгебра<br>в numpy<br><br>Таблицы <br>в pandas<br><br>Графики<br>в matplotlib, seaborn<br><br>Статистические модели<br>в sklearn<br><br>Сериализация в Pickle<br>работа с БД<br><br>Графический интерфейс<br>в PyQt<br><br>Численные схемы<br>на Python<br><br><br>multiprocessing</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
