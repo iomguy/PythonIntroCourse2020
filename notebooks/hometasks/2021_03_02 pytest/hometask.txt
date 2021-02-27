@@ -1,0 +1,39 @@
+Реализовать 4 функции, которые:
+ - преобразует строку с параметрами ключевого слова, "распаковывая" запись значений Eclipse по-умолчанию (n*) в последовательность DEFAULT DEFAULT DEFAULT (и так n раз - см. пример в тесте)
+ - парсит параметры ключевого слова COMPDAT (используя первую функцию, которая распаковывает параметры по умолчанию в строке)
+   Не забудьте, что в COMPDAT нет параметра Local Grid, поэтому вторым элементов списка, который возвращает эта функция, всегда должен быть np.nan (см. пример в тесте)
+ - парсит параметры ключевого слова COMPDATL (используя первую функцию, которая распаковывает параметры по умолчанию в строке)
+ - парсит параметры ключевеого слово DATA
+
+Функции должны успешно проходить тесты из файла pytest_schedule_parser.py
+Чтобы понять, что делают функции, ориентируйтесь на формулировки тестов или описание функций ниже
+Как и было на паре, иногда тесты - это лучшая документация.
+
+def default_params_unpacking_in_line(line: str) -> str:
+    """
+    unpacks default parameters set by the 'n*' expression
+    @param line: line related to a current COMPDAT/COMPDATL keyword block
+    @return: the unpacked line related to a current COMPDAT/COMPDATL keyword block
+    """
+
+def parse_keyword_COMPDAT_line(well_comp_line: str) -> List[str]:
+    """
+    parses a line related to a current COMPDAT keyword block
+    @param well_comp_line: line related to a current COMPDAT keyword block
+    @return: list of parameters (+ NaN Loc. grid. parameter) in a COMPDAT line
+    """
+
+def parse_keyword_COMPDATL_line(well_comp_line: str) -> List[str]:
+    """
+    parses a line related to a current COMPDATL keyword block
+    @param well_comp_line: line related to a current COMPDATL keyword block
+    @return: list of parameters in a COMPDATL line
+    """
+
+
+def parse_keyword_DATE_line(current_date_line: str) -> str:
+    """
+    parses a line related to a current DATA keyword block
+    @param current_date_line: line related to a current DATA keyword block
+    @return: list of parameters in a DATE line
+    """
