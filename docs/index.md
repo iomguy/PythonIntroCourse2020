@@ -63,13 +63,13 @@ author: Калюжнюк Александр
     <td class="tg-za14">02/02<br><br>Доработка парсера</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-c3ow">Выложить<br><a href="https://github.com/iomguy/PythonIntroCourse2020/tree/master/notebooks/hometasks/2021_03_02%20pytest" target="_blank" rel="noopener noreferrer">дз по тестам</a><br>на своём гитхабе</td>
   </tr>
   <tr>
     <td class="tg-za14">09/03<br><br>Линейная алгебра в numpy</td>
     <td class="tg-za14"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-c3ow">Выложить<br><a href="https://github.com/iomguy/PythonIntroCourse2020/tree/master/notebooks/hometasks/2021_03_02%20pytest" target="_blank" rel="noopener noreferrer">дз по тестам</a><br>на своём гитхабе</td>
+    <td class="tg-c3ow">Выложить<br><a href="https://github.com/iomguy/PythonIntroCourse2020/tree/master/notebooks/hometasks/2021_03_09%20pytest%20%2B%20parser" target="_blank" rel="noopener noreferrer">дз по парсеру</a><br>на своём гитхабе</td>
   </tr>
   <tr>
     <td class="tg-za14">16/03<br><br>Таблицы в pandas</td>
