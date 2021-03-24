@@ -67,19 +67,19 @@ author: Калюжнюк Александр
   </tr>
   <tr>
     <td class="tg-za14">09/03<br><br>Линейная алгебра в numpy</td>
-    <td class="tg-za14"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-za14">📖<a href="https://iomguy.github.io/PythonIntroCourse2020/data_pages/17_numpy.pdf" target="_blank" rel="noopener noreferrer">массивы в Python</a><br><br>📄<a href="https://www.sharpsightlabs.com/blog/numpy-axes-explained/" target="_blank" rel="noopener noreferrer">Оси и конкатенация</a><br>📄<a href="https://pyprog.pro/basic_operations.html" target="_blank" rel="noopener noreferrer">Базовые операции, лин. ал.</a></td>
+    <td class="tg-0pky">💻<a href="https://github.com/iomguy/PythonIntroCourse2020/blob/master/notebooks/17_list_vs_numpy.py" target="_blank" rel="noopener noreferrer">lists vs numpy</a><br>💻<a href="https://github.com/iomguy/PythonIntroCourse2020/blob/master/notebooks/17_numpy.ipynb" target="_blank" rel="noopener noreferrer">основы numpy,</a><br><a href="https://github.com/iomguy/PythonIntroCourse2020/blob/master/notebooks/17_numpy.ipynb" target="_blank" rel="noopener noreferrer">broadcasting</a></td>
     <td class="tg-c3ow">Выложить<br><a href="https://github.com/iomguy/PythonIntroCourse2020/tree/master/notebooks/hometasks/2021_03_09%20pytest%20%2B%20parser" target="_blank" rel="noopener noreferrer">дз по парсеру</a><br>на своём гитхабе</td>
   </tr>
   <tr>
     <td class="tg-za14">16/03<br><br>Таблицы в pandas</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">📖<a href="https://iomguy.github.io/PythonIntroCourse2020/data_pages/18_pandas.pdf" target="_blank" rel="noopener noreferrer">устройство таблиц Pandas</a><br><br>📄<a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html" target="_blank" rel="noopener noreferrer">10-минутное интро</a><br>📄<a href="https://www.webpages.uidaho.edu/~stevel/cheatsheets/Pandas%20DataFrame%20Notes_12pages.pdf" target="_blank" rel="noopener noreferrer">Pandas cheatsheet</a></td>
+    <td class="tg-0pky">💻<a href="https://github.com/iomguy/PythonIntroCourse2020/blob/master/notebooks/18_pandas.ipynb" target="_blank" rel="noopener noreferrer">база Pandas</a><br><br>💻<a href="https://github.com/iomguy/PythonIntroCourse2020/blob/master/notebooks/18_pandas_titanic.ipynb" target="_blank" rel="noopener noreferrer">Pandas + Titanic</a><br></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-za14">30/03<br><br>Графики в matplotlib, seaborn</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><br>📄<a href="https://realpython.com/python-matplotlib-guide/" target="_blank" rel="noopener noreferrer">Matplotlib guide</a><br>📄<a href="https://habr.com/ru/company/otus/blog/540526/" target="_blank" rel="noopener noreferrer">Основы Seaborn</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
