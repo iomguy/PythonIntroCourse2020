@@ -22,6 +22,8 @@ prologues:
   - path: data_pages/13_encapsulation.pdf
   - path: data_pages/14_practice_parser.pdf
   - path: data_pages/16_unit_tests_from_Mariya_Zelenova.pdf
+  - path: data_pages/17_numpy.pdf
+  - path: data_pages/18_pandas.pdf
 # chapters:
 #  - path: week01/01.md
 #    sections:
