@@ -8,7 +8,7 @@ author: Калюжнюк Александр
 **Высшая школа Теоретическая Механика · Осень 2020**
 
 | Преподаватель | [Калюжнюк Александр](https://vk.com/alex_iomguy)|
-| Занятия   | Вт ?,  НИК (B2.03)? |
+| Занятия   | Вт 10:00-11:30,  НИК (A2.25) |
 | Материалы   | [Notebooks](https://github.com/iomguy/PythonIntroCourse2020/tree/master/notebooks) |
 
 
@@ -19,12 +19,12 @@ author: Калюжнюк Александр
 
 ## Структура и содержание занятий
 
-<table class="tg" style="undefined;table-layout: fixed; width: 1076px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1094px">
 <colgroup>
+<col style="width: 340px">
 <col style="width: 334px">
-<col style="width: 328px">
-<col style="width: 150px">
-<col style="width: 264px">
+<col style="width: 152px">
+<col style="width: 268px">
 </colgroup>
 <thead>
   <tr>
@@ -84,16 +84,16 @@ author: Калюжнюк Александр
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-za14">06/04<br><br>Статистические модели в sklearn</td>
+    <td class="tg-za14">06/04<br><br>Практика Pet Project</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-c3ow"><a href="https://docs.google.com/spreadsheets/d/1cxPNJRYRQ3nToLxLb6YIYjBUK9EXYxXXsUj6xPqc5_E/edit#gid=1294852131" target="_blank" rel="noopener noreferrer">Выбрать тему проекта,</a><br>начать работу по ней</td>
   </tr>
   <tr>
-    <td class="tg-za14">13/04<br><br>Шифрование,<br>сериализация в Pickle</td>
+    <td class="tg-za14">13/04<br><br>Практика Pet Project<br></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-c3ow"><a href="https://docs.google.com/spreadsheets/d/1cxPNJRYRQ3nToLxLb6YIYjBUK9EXYxXXsUj6xPqc5_E/edit#gid=1294852131" target="_blank" rel="noopener noreferrer">Начать готовить штрафной доклад</a><br><a href="https://docs.google.com/spreadsheets/d/1cxPNJRYRQ3nToLxLb6YIYjBUK9EXYxXXsUj6xPqc5_E/edit#gid=1294852131" target="_blank" rel="noopener noreferrer">по аттестации</a></td>
   </tr>
   <tr>
     <td class="tg-za14">20/04<br><br>Работа с БД</td>
@@ -130,6 +130,12 @@ author: Калюжнюк Александр
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Статистические модели в sklearn ?<br>Шифрование,<br><br>сериализация в Pickle</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
