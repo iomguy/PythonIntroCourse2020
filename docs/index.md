@@ -79,7 +79,7 @@ author: Калюжнюк Александр
   </tr>
   <tr>
     <td class="tg-za14">30/03<br><br>Графики в matplotlib, seaborn</td>
-    <td class="tg-0pky"><br>📄<a href="https://realpython.com/python-matplotlib-guide/" target="_blank" rel="noopener noreferrer">Matplotlib guide</a><br>📄<a href="https://habr.com/ru/company/otus/blog/540526/" target="_blank" rel="noopener noreferrer">Основы Seaborn</a></td>
+    <td class="tg-0pky"><a href="https://iomguy.github.io/PythonIntroCourse2020/data_pages/19_matplotlib_sns_plotly.pdf" target="_blank" rel="noopener noreferrer">📖устройство matplotlib и seaborn</a><br><br>📄<a href="https://realpython.com/python-matplotlib-guide/" target="_blank" rel="noopener noreferrer">Matplotlib guide</a><br>📄<a href="https://habr.com/ru/company/otus/blog/540526/" target="_blank" rel="noopener noreferrer">Основы Seaborn</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -96,46 +96,28 @@ author: Калюжнюк Александр
     <td class="tg-c3ow"><a href="https://docs.google.com/spreadsheets/d/1cxPNJRYRQ3nToLxLb6YIYjBUK9EXYxXXsUj6xPqc5_E/edit#gid=1294852131" target="_blank" rel="noopener noreferrer">Начать готовить штрафной доклад</a><br><a href="https://docs.google.com/spreadsheets/d/1cxPNJRYRQ3nToLxLb6YIYjBUK9EXYxXXsUj6xPqc5_E/edit#gid=1294852131" target="_blank" rel="noopener noreferrer">по аттестации</a></td>
   </tr>
   <tr>
-    <td class="tg-za14">20/04<br><br>Работа с БД</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-za14">20/04<br><br>Многопоточность и GIL</td>
+    <td class="tg-0pky"><a href="https://iomguy.github.io/PythonIntroCourse2020/data_pages/20_threads_GIL.pdf" target="_blank" rel="noopener noreferrer">📖презентация CS центра</a><br><br>🛑<a href="https://compscicenter.ru/courses/python/2015-autumn/classes/1562/" target="_blank" rel="noopener noreferrer">Лекция CS центра</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-za14">27/04<br><br>Графический интерфейс в PyQt</td>
+    <td class="tg-0pky">📖<a href="https://iomguy.github.io/PythonIntroCourse2020/data_pages/21_GUI_PyQT.pdf" target="_blank" rel="noopener noreferrer">устройство PyQt и</a><br><a href="https://iomguy.github.io/PythonIntroCourse2020/data_pages/21_GUI_PyQT.pdf" target="_blank" rel="noopener noreferrer">библиотеки виджетов</a><br></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-za14">Что ещё стоит добавить в курс:<br><br>- PEP-8, аннотирование типов<br>- создание venv, работа со сборками<br>- multiprocessing<br>- численные схемы на Python<br>- статистические модели в sklearn ?<br>- шифрование,<br><br>- сериализация в Pickle</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-za14">04/05<br><br>PEP-8, аннотирование типов</td>
+    <td class="tg-za14">28/05<br><br>Зачёт</td>
+    <td class="tg-0pky">🧑‍🎓👩‍🎓</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-za14">11/05<br><br>Создание venv, работа со сборками</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-za14">18/05<br><br>multiprocessing</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-za14">25/05<br><br>Численные схемы на Python</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Статистические модели в sklearn ?<br>Шифрование,<br><br>сериализация в Pickle</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">Доделать парсер<br><br>Сдать штрафное задание<br><br>Подготовить презентацию<br><br>Загрузить код на Github<br><br>Защитить проект</td>
   </tr>
 </tbody>
 </table>
