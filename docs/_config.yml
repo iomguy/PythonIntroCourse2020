@@ -24,6 +24,10 @@ prologues:
   - path: data_pages/16_unit_tests_from_Mariya_Zelenova.pdf
   - path: data_pages/17_numpy.pdf
   - path: data_pages/18_pandas.pdf
+  - path: data_pages/19_matplotlib_sns_plotly.pdf
+  - path: data_pages/20_threads_GIL.pdf
+  - path: data_pages/21_GUI_PyQT.pdf
+
 # chapters:
 #  - path: week01/01.md
 #    sections:
