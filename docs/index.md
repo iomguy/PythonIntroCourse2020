@@ -19,10 +19,10 @@ author: Калюжнюк Александр
 
 ## Структура и содержание занятий
 
-<table class="tg" style="undefined;table-layout: fixed; width: 1094px">
+<table class="tg" style="undefined;table-layout: fixed; width: 1095px">
 <colgroup>
 <col style="width: 340px">
-<col style="width: 334px">
+<col style="width: 335px">
 <col style="width: 152px">
 <col style="width: 268px">
 </colgroup>
@@ -108,7 +108,7 @@ author: Калюжнюк Александр
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-za14">Что ещё стоит добавить в курс:<br><br>- PEP-8, аннотирование типов<br>- создание venv, работа со сборками<br>- multiprocessing<br>- численные схемы на Python<br>- статистические модели в sklearn ?<br>- шифрование,<br><br>- сериализация в Pickle</td>
+    <td class="tg-za14">Что ещё стоит добавить в курс:<br><br>- PEP-8, аннотирование типов<br>- multiprocessing<br><br>- численные схемы на Python<br>- статистические модели в sklearn ?<br>- шифрование,<br>- сериализация в Pickle<br><br>из <a href="https://m.habr.com/ru/company/yandex/blog/498856/" target="_blank" rel="noopener noreferrer">курса Яндекса</a>:<br>- устройство CPython<br>- архитектура<br>- инфраструктура, сборки<br>- дебаг, логирование, профилирование<br>- асинхронное программирование</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
