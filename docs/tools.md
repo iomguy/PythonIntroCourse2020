@@ -12,7 +12,20 @@ title: Инструменты курса
 
 [https://github.com/vinta/awesome-python#gui-development](https://github.com/vinta/awesome-python#gui-development) - большой репозиторий с полезными библиотеками, разбитыми по категориям. Прокручивайте страницу и ищите подходящую для вашего проекта библиотеку.
 
-## Python
+## Перед установкой
+Проверьте, не установлен ли у вас Python
+
+**Windows, в cmd:**
+> where python
+
+**Linux/Mac OS, в terminal:**
+> which python
+
+если пользуетесь apt-get, то можно сразу установить Python через терминал
+
+> sudo apt install python3.8
+
+## Интерпретатор + IDE
 
 Если хотите делать задания локально, лучший путь установить [обычный интерпретатор CPython (мало весит)](https://www.python.org/downloads/) или [интерпретатор CPython с множеством установленных библиотек в составе Anaconda (2 с лишним Гб)](https://anaconda.org/)
 
