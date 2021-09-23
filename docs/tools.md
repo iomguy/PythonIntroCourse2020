@@ -27,9 +27,10 @@ title: Инструменты курса
 
 ## Интерпретатор + IDE
 
-Если хотите делать задания локально, лучший путь установить [обычный интерпретатор CPython (мало весит)](https://www.python.org/downloads/) или [интерпретатор CPython с множеством установленных библиотек в составе Anaconda (2 с лишним Гб)](https://anaconda.org/)
+Если хотите делать задания локально, лучший путь установить [обычный интерпретатор CPython (мало весит)](https://www.python.org/downloads/) или [интерпретатор CPython с множеством установленных библиотек в составе Anaconda (2 с лишним Гб)](https://anaconda.org/).
 
-Если хотите писать красивый код: пользуйтесь профессиональной средой разработки [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/) 
+Если хотите писать красивый код: пользуйтесь профессиональной средой разработки [PyCharm](https://www.jetbrains.com/pycharm/).
+
 Для студентов и преподавателей есть бесплатная академическая лицензия [PyCharm Academic](https://www.jetbrains.com/community/education/#students) 
 
 ## Jupyter notebook
@@ -40,13 +41,15 @@ Jupyter notebook - удобная оболочка для работы с инт
 Jupyter notebook устанавливается чрез pip в командной строке/терминале:
 > pip install notebook
 
-Если у вас установлена Anaconda, то ничего устанавливать не нужно.
+Если у вас установлена Anaconda, то Jupyter уже есть, и команда выше не нужна.
 
 Выбирайте нужную Вам файловую директорию в командной строке/терминале:
 >cd "<Имя вашей директории>"
 
 и запускайте Jupyter notebook в командной строке/терминале:
 >jupyter notebook
+
+Если нужно запустить полноценный Jupyter notebook-сервер с доступом извне, посмотрите [эту статью на Stackoverflow](https://stackoverflow.com/questions/42848130/why-i-cant-access-remote-jupyter-notebook-server)
 
 ## Git, GitHub
 Маленький шаг для человечества, огромный для программирования:
