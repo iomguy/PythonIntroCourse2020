@@ -1,0 +1,18 @@
+создаём файл
+echo 'print("Hello, world!")' > first.py
+git init
+git add .
+git commit "first commit to master"
+git status
+git commit -m "first commit to master"
+git checkout -b bugFix
+меняем файл
+git add .
+git status
+git commit -m "some bugFix done"
+git checkout master
+проверяем содержимое файла, меняем файл
+git add .
+git commit -m "some features in master"
+git checkout bugFix
+git merge master
