@@ -20,7 +20,7 @@ class CurrencyConverter:
 		self._currency_x = currency_value
 
 c = CurrencyConverter(2)
-# print(c.currency_x)
-# c.currency_x = 5
-# print(c.currency_x)
-# c.currency_x = -1
+print(c.currency_x)
+c.currency_x = 5
+print(c.currency_x)
+c.currency_x = -1

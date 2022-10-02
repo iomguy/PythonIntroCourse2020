@@ -22,8 +22,8 @@ class CurrencyConverter:
 # CurrencyConverter(-2)
 
 c = CurrencyConverter(2)
-# # в геттере уже есть функционал вывода переменной
-# c.get_currency_x()
-# c.set_currency_x(3)
-# c.currency_converter()
-# # c.set_currency_x(-4)
+# в геттере уже есть функционал вывода переменной
+c.get_currency_x()
+c.set_currency_x(3)
+c.currency_converter()
+c.set_currency_x(-4)

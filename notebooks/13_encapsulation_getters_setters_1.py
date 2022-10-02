@@ -14,6 +14,6 @@ print(c.currency_converter())
 
 # хорошо, а если значение < 0?
 
-# c = CurrencyConverter()
-# c.currency_x = -2
-# print(c.currency_converter())
+c = CurrencyConverter()
+c.currency_x = -2
+print(c.currency_converter())
